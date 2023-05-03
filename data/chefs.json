@@ -6,7 +6,30 @@
     "chef_bio": "Vikas Khanna has certainly made a name for himself, not just in India, but even internationally. He is a Michelin star chef and his restaurant Junoon has won Michelin stars for 6 consecutive years! In case you still don’t recognise him, he was the host of the MasterChef India Season 2. A great chef and an equally nice person, his passion for culinary art is enough to make you want to start cooking!",
     "years_of_experience": 10,
     "number_of_recipes": 50,
-    "likes": 1200
+    "likes": 1200,
+    "recipes": [
+      {
+        "id": "r1",
+        "recipe_name": "Chicken Tikka Masala",
+        "ingredients": "boneless chicken, yogurt, garlic, ginger, garam masala, cumin, coriander, paprika, turmeric, salt, tomato sauce, cream",
+        "cooking_method": "1. Marinate the chicken in a mixture of yogurt, garlic, ginger, and spices. 2. Grill or sauté the chicken until cooked through. 3. Simmer the tomato sauce with cream and additional spices. 4. Add the cooked chicken to the sauce and heat through. 5. Serve hot with rice or naan bread.",
+        "ratings": "4.5"
+      },
+      {
+        "id": "r2",
+        "recipe_name": "Saag Paneer",
+        "ingredients": "paneer cheese, spinach, onion, garlic, ginger, ghee, garam masala, cumin, coriander, turmeric, salt",
+        "cooking_method": "1. Sauté onion, garlic, and ginger in ghee. 2. Add spinach and spices and cook until wilted. 3. Purée the mixture in a blender. 4. Fry paneer cheese until lightly browned. 5. Add the spinach purée to the pan with the paneer and heat through. 6. Serve hot with rice or naan bread.",
+        "ratings": "4.3"
+      },
+      {
+        "id": "r3",
+        "recipe_name": "Chana Masala",
+        "ingredients": "chickpeas, onion, garlic, ginger, tomato, ghee, garam masala, cumin, coriander, turmeric, salt",
+        "cooking_method": "1. Sauté onion, garlic, and ginger in ghee. 2. Add tomato and spices and cook until softened. 3. Add chickpeas and water and simmer until heated through. 4. Serve hot with rice or naan bread.",
+        "ratings": "4.2"
+      }
+    ]
   },
   {
     "id": "c2",
@@ -15,7 +38,30 @@
     "chef_bio": "He won the Best Chef Of The Year in 2015 and is known for rolling out some great recipes that are not just easy to follow but the end results look spectacular. He has also been featured on NDTV for his show Vicky Goes Veg, wherein he taught masses about some delicious recipes that one could cook up at home!",
     "years_of_experience": 8,
     "number_of_recipes": 35,
-    "likes": 800
+    "likes": 800,
+    "recipes": [
+      {
+        "id": "r2",
+        "recipe_name": "Saag Paneer",
+        "ingredients": "paneer cheese, spinach, onion, garlic, ginger, ghee, garam masala, cumin, coriander, turmeric, salt",
+        "cooking_method": "1. Sauté onion, garlic, and ginger in ghee. 2. Add spinach and spices and cook until wilted. 3. Purée the mixture in a blender. 4. Fry paneer cheese until lightly browned. 5. Add the spinach purée to the pan with the paneer and heat through. 6. Serve hot with rice or naan bread.",
+        "ratings": "4.3"
+      },
+      {
+        "id": "r3",
+        "recipe_name": "Chana Masala",
+        "ingredients": "chickpeas, onion, garlic, ginger, tomato, ghee, garam masala, cumin, coriander, turmeric, salt",
+        "cooking_method": "1. Sauté onion, garlic, and ginger in ghee. 2. Add tomato and spices and cook until softened. 3. Add chickpeas and water and simmer until heated through. 4. Serve hot with rice or naan bread.",
+        "ratings": "4.2"
+      },
+      {
+        "id": "r4",
+        "recipe_name": "Palak Paneer",
+        "ingredients": "paneer cheese, spinach, onion, garlic, ginger, tomato, ghee, garam masala, cumin, coriander, turmeric, salt",
+        "cooking_method": "1. Sauté onion, garlic, and ginger in ghee. 2. Add tomato and spices and cook until softened. 3. Add spinach and cook until wilted. 4. Purée the mixture in a blender. 5. Fry paneer cheese until lightly browned. 6. Add the spinach purée to the pan with the paneer and heat through. 7. Serve hot with rice or naan bread.",
+        "ratings": "4.4"
+      }
+    ]
   },
   {
     "id": "c3",
@@ -24,7 +70,30 @@
     "chef_bio": "A renowned name in the Indian culinary world, she is the winner of MasterChef India Season 1. Since then she has been spreading her love for cooking by teaching people recipes through several shows like ‘Chef Pankaj Ka Zayka’ and ‘3 Course with Pankaj’, to name a few.",
     "years_of_experience": 12,
     "number_of_recipes": 70,
-    "likes": 1500
+    "likes": 1500,
+    "recipes": [
+      {
+        "id": "r3",
+        "recipe_name": "Chana Masala",
+        "ingredients": "chickpeas, onion, garlic, ginger, tomato, ghee, garam masala, cumin, coriander, turmeric, salt",
+        "cooking_method": "1. Sauté onion, garlic, and ginger in ghee. 2. Add tomato and spices and cook until softened. 3. Add chickpeas and water and simmer until heated through. 4. Serve hot with rice or naan bread.",
+        "ratings": "4.2"
+      },
+      {
+        "id": "r4",
+        "recipe_name": "Palak Paneer",
+        "ingredients": "paneer cheese, spinach, onion, garlic, ginger, tomato, ghee, garam masala, cumin, coriander, turmeric, salt",
+        "cooking_method": "1. Sauté onion, garlic, and ginger in ghee. 2. Add tomato and spices and cook until softened. 3. Add spinach and cook until wilted. 4. Purée the mixture in a blender. 5. Fry paneer cheese until lightly browned. 6. Add the spinach purée to the pan with the paneer and heat through. 7. Serve hot with rice or naan bread.",
+        "ratings": "4.4"
+      },
+      {
+        "id": "r5",
+        "recipe_name": "Biryani",
+        "ingredients": "rice, chicken or lamb, onion, garlic, ginger, ghee, cinnamon, cardamom, cloves, coriander, cumin, turmeric, saffron, salt",
+        "cooking_method": "1. Sauté onion, garlic, and ginger in ghee. 2. Add spices and cook until fragrant. 3. Add chicken or lamb and cook until browned. 4. Cook rice in water or broth until tender. 5. Layer the rice and meat mixture in a baking dish. 6. Cover with saffron 7. Serve hot with meat curry and borhani.",
+        "ratings": "4.4"
+      }
+    ]
   },
   {
     "id": "c4",
@@ -33,7 +102,30 @@
     "chef_bio": "He’s known as the master of progressive Indian cuisines and has also been a judge on the popular cooking show MasterChef India. He is known for rolling out quirky recipes that will give you a fresh take on popular traditional Indian dishes that will make you want to head over to the kitchen right away.",
     "years_of_experience": 5,
     "number_of_recipes": 25,
-    "likes": 500
+    "likes": 500,
+    "recipes": [
+      {
+        "id": "r4",
+        "recipe_name": "Palak Paneer",
+        "ingredients": "paneer cheese, spinach, onion, garlic, ginger, tomato, ghee, garam masala, cumin, coriander, turmeric, salt",
+        "cooking_method": "1. Sauté onion, garlic, and ginger in ghee. 2. Add tomato and spices and cook until softened. 3. Add spinach and cook until wilted. 4. Purée the mixture in a blender. 5. Fry paneer cheese until lightly browned. 6. Add the spinach purée to the pan with the paneer and heat through. 7. Serve hot with rice or naan bread.",
+        "ratings": "4.4"
+      },
+      {
+        "id": "r5",
+        "recipe_name": "Biryani",
+        "ingredients": "rice, chicken or lamb, onion, garlic, ginger, ghee, cinnamon, cardamom, cloves, coriander, cumin, turmeric, saffron, salt",
+        "cooking_method": "1. Sauté onion, garlic, and ginger in ghee. 2. Add spices and cook until fragrant. 3. Add chicken or lamb and cook until browned. 4. Cook rice in water or broth until tender. 5. Layer the rice and meat mixture in a baking dish. 6. Cover with saffron 7. Serve hot with meat curry and borhani.",
+        "ratings": "4.4"
+      },
+      {
+        "id": "r6",
+        "recipe_name": "Aloo Gobi",
+        "ingredients": "2 potatoes, 1 cauliflower, 1 onion, 2 tomatoes, 2 cloves garlic, 1 inch ginger, 2 green chilies, 1 tsp cumin seeds, 1 tsp turmeric powder, 1 tsp coriander powder, 1 tsp garam masala, salt, oil",
+        "cooking_method": "1. Peel and dice the potatoes, chop the cauliflower into florets, and slice the onion, tomatoes, garlic, and ginger.  2. Heat oil in a pan and add cumin seeds. Once they sputter, add onions and sauté until translucent. Add ginger, garlic, and green chilies and sauté for a minute.  3. Add the diced potatoes and sauté for 5 minutes until they are partially cooked. Then add the cauliflower and stir well.  4. Add turmeric, coriander powder, and salt to taste. Mix well and let it cook for 5 minutes on medium heat.",
+        "ratings": "4.7"
+      }
+    ]
   },
   {
     "id": "c5",
@@ -42,7 +134,30 @@
     "chef_bio": "Pooja Dhingra needs absolutely no introduction to the world of confectionery. She is a popular pastry chef who is known for dazzling her customers with decadent goodies that she whips up. Also, a co-founder at Whisk India, she is known to have been the first one to open a macaron store in the country!",
     "years_of_experience": 15,
     "number_of_recipes": 100,
-    "likes": 2000
+    "likes": 2000,
+    "recipes": [
+      {
+        "id": "r3",
+        "recipe_name": "Chana Masala",
+        "ingredients": "chickpeas, onion, garlic, ginger, tomato, ghee, garam masala, cumin, coriander, turmeric, salt",
+        "cooking_method": "1. Sauté onion, garlic, and ginger in ghee. 2. Add tomato and spices and cook until softened. 3. Add chickpeas and water and simmer until heated through. 4. Serve hot with rice or naan bread.",
+        "ratings": "4.2"
+      },
+      {
+        "id": "r4",
+        "recipe_name": "Palak Paneer",
+        "ingredients": "paneer cheese, spinach, onion, garlic, ginger, tomato, ghee, garam masala, cumin, coriander, turmeric, salt",
+        "cooking_method": "1. Sauté onion, garlic, and ginger in ghee. 2. Add tomato and spices and cook until softened. 3. Add spinach and cook until wilted. 4. Purée the mixture in a blender. 5. Fry paneer cheese until lightly browned. 6. Add the spinach purée to the pan with the paneer and heat through. 7. Serve hot with rice or naan bread.",
+        "ratings": "4.4"
+      },
+      {
+        "id": "r5",
+        "recipe_name": "Biryani",
+        "ingredients": "rice, chicken or lamb, onion, garlic, ginger, ghee, cinnamon, cardamom, cloves, coriander, cumin, turmeric, saffron, salt",
+        "cooking_method": "1. Sauté onion, garlic, and ginger in ghee. 2. Add spices and cook until fragrant. 3. Add chicken or lamb and cook until browned. 4. Cook rice in water or broth until tender. 5. Layer the rice and meat mixture in a baking dish. 6. Cover with saffron 7. Serve hot with meat curry and borhani.",
+        "ratings": "4.4"
+      }
+    ]
   },
   {
     "id": "c6",
@@ -51,6 +166,29 @@
     "chef_bio": "Kunal Kapur is a well-known celebrity chef who has also previously been a judge on MasterChef India. He has won the Epicurean Guild Award for Best Food Entertainer in 2017 amongst many others over the years. Did you know he was invited as a guest chef on MasterChef America in Season 2?",
     "years_of_experience": 3,
     "number_of_recipes": 15,
-    "likes": 300
+    "likes": 300,
+    "recipes": [
+      {
+        "id": "r2",
+        "recipe_name": "Saag Paneer",
+        "ingredients": "paneer cheese, spinach, onion, garlic, ginger, ghee, garam masala, cumin, coriander, turmeric, salt",
+        "cooking_method": "1. Sauté onion, garlic, and ginger in ghee. 2. Add spinach and spices and cook until wilted. 3. Purée the mixture in a blender. 4. Fry paneer cheese until lightly browned. 5. Add the spinach purée to the pan with the paneer and heat through. 6. Serve hot with rice or naan bread.",
+        "ratings": "4.3"
+      },
+      {
+        "id": "r3",
+        "recipe_name": "Chana Masala",
+        "ingredients": "chickpeas, onion, garlic, ginger, tomato, ghee, garam masala, cumin, coriander, turmeric, salt",
+        "cooking_method": "1. Sauté onion, garlic, and ginger in ghee. 2. Add tomato and spices and cook until softened. 3. Add chickpeas and water and simmer until heated through. 4. Serve hot with rice or naan bread.",
+        "ratings": "4.2"
+      },
+      {
+        "id": "r4",
+        "recipe_name": "Palak Paneer",
+        "ingredients": "paneer cheese, spinach, onion, garlic, ginger, tomato, ghee, garam masala, cumin, coriander, turmeric, salt",
+        "cooking_method": "1. Sauté onion, garlic, and ginger in ghee. 2. Add tomato and spices and cook until softened. 3. Add spinach and cook until wilted. 4. Purée the mixture in a blender. 5. Fry paneer cheese until lightly browned. 6. Add the spinach purée to the pan with the paneer and heat through. 7. Serve hot with rice or naan bread.",
+        "ratings": "4.4"
+      }
+    ]
   }
 ]
