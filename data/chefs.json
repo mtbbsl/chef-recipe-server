@@ -3,6 +3,7 @@
     "id": "c1",
     "chef_picture_url": "https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/vkhanna.jpg",
     "chef_name": "Vikas Khanna",
+    "chef_bio": "Vikas Khanna has certainly made a name for himself, not just in India, but even internationally. He is a Michelin star chef and his restaurant Junoon has won Michelin stars for 6 consecutive years! In case you still don’t recognise him, he was the host of the MasterChef India Season 2. A great chef and an equally nice person, his passion for culinary art is enough to make you want to start cooking!",
     "years_of_experience": 10,
     "number_of_recipes": 50,
     "likes": 1200
@@ -11,6 +12,7 @@
     "id": "c2",
     "chef_picture_url": "https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/vicky-ratnani-1.jpg",
     "chef_name": "Vicky Ratnani",
+    "chef_bio": "He won the Best Chef Of The Year in 2015 and is known for rolling out some great recipes that are not just easy to follow but the end results look spectacular. He has also been featured on NDTV for his show Vicky Goes Veg, wherein he taught masses about some delicious recipes that one could cook up at home!",
     "years_of_experience": 8,
     "number_of_recipes": 35,
     "likes": 800
@@ -19,6 +21,7 @@
     "id": "c3",
     "chef_picture_url": "https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/pankaj-bhadouria-1.jpg",
     "chef_name": "Pankaj Bhadouria",
+    "chef_bio": "A renowned name in the Indian culinary world, she is the winner of MasterChef India Season 1. Since then she has been spreading her love for cooking by teaching people recipes through several shows like ‘Chef Pankaj Ka Zayka’ and ‘3 Course with Pankaj’, to name a few.",
     "years_of_experience": 12,
     "number_of_recipes": 70,
     "likes": 1500
@@ -27,6 +30,7 @@
     "id": "c4",
     "chef_picture_url": "https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/ajay-chopra-1.jpg",
     "chef_name": "Ajay Chopra",
+    "chef_bio": "He’s known as the master of progressive Indian cuisines and has also been a judge on the popular cooking show MasterChef India. He is known for rolling out quirky recipes that will give you a fresh take on popular traditional Indian dishes that will make you want to head over to the kitchen right away.",
     "years_of_experience": 5,
     "number_of_recipes": 25,
     "likes": 500
@@ -35,6 +39,7 @@
     "id": "c5",
     "chef_picture_url": "https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/pooja-dhingra-11589353546631.jpg",
     "chef_name": "Pooja Dhingra",
+    "chef_bio": "Pooja Dhingra needs absolutely no introduction to the world of confectionery. She is a popular pastry chef who is known for dazzling her customers with decadent goodies that she whips up. Also, a co-founder at Whisk India, she is known to have been the first one to open a macaron store in the country!",
     "years_of_experience": 15,
     "number_of_recipes": 100,
     "likes": 2000
@@ -43,6 +48,7 @@
     "id": "c6",
     "chef_picture_url": "https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/kunal-kapoor-1.jpg",
     "chef_name": "Kunal Kapur",
+    "chef_bio": "Kunal Kapur is a well-known celebrity chef who has also previously been a judge on MasterChef India. He has won the Epicurean Guild Award for Best Food Entertainer in 2017 amongst many others over the years. Did you know he was invited as a guest chef on MasterChef America in Season 2?",
     "years_of_experience": 3,
     "number_of_recipes": 15,
     "likes": 300

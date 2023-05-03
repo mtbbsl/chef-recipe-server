@@ -12,7 +12,6 @@ app.get("/", (req, res) => {
 });
 
 app.get("/chefs", (req, res) => {
-  console.log(chefs);
   res.send(chefs);
 });
 
