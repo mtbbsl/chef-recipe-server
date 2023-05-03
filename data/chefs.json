@@ -2,7 +2,7 @@
   {
     "id": "c1",
     "chef_picture_url": "https://example.com/chef1.jpg",
-    "chef_name": "Amit Kumar",
+    "chef_name": "Vikas Khanna",
     "years_of_experience": 10,
     "number_of_recipes": 50,
     "likes": 1200
@@ -10,7 +10,7 @@
   {
     "id": "c2",
     "chef_picture_url": "https://example.com/chef2.jpg",
-    "chef_name": "Priya Singh",
+    "chef_name": "Vicky Ratnani",
     "years_of_experience": 8,
     "number_of_recipes": 35,
     "likes": 800
@@ -18,7 +18,7 @@
   {
     "id": "c3",
     "chef_picture_url": "https://example.com/chef3.jpg",
-    "chef_name": "Ravi Gupta",
+    "chef_name": "Pankaj Bhadouria",
     "years_of_experience": 12,
     "number_of_recipes": 70,
     "likes": 1500
@@ -26,7 +26,7 @@
   {
     "id": "c4",
     "chef_picture_url": "https://example.com/chef4.jpg",
-    "chef_name": "Swati Sharma",
+    "chef_name": "Ajay Chopra",
     "years_of_experience": 5,
     "number_of_recipes": 25,
     "likes": 500
@@ -34,7 +34,7 @@
   {
     "id": "c5",
     "chef_picture_url": "https://example.com/chef5.jpg",
-    "chef_name": "Naveen Kumar",
+    "chef_name": "Pooja Dhingra",
     "years_of_experience": 15,
     "number_of_recipes": 100,
     "likes": 2000
@@ -42,7 +42,7 @@
   {
     "id": "c6",
     "chef_picture_url": "https://example.com/chef6.jpg",
-    "chef_name": "Riya Verma",
+    "chef_name": "Kunal Kapur",
     "years_of_experience": 3,
     "number_of_recipes": 15,
     "likes": 300
