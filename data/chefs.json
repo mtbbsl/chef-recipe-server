@@ -1,7 +1,7 @@
 [
   {
     "id": "c1",
-    "chef_picture_url": "https://example.com/chef1.jpg",
+    "chef_picture_url": "https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/vkhanna.jpg",
     "chef_name": "Vikas Khanna",
     "years_of_experience": 10,
     "number_of_recipes": 50,
@@ -9,7 +9,7 @@
   },
   {
     "id": "c2",
-    "chef_picture_url": "https://example.com/chef2.jpg",
+    "chef_picture_url": "https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/vicky-ratnani-1.jpg",
     "chef_name": "Vicky Ratnani",
     "years_of_experience": 8,
     "number_of_recipes": 35,
@@ -17,7 +17,7 @@
   },
   {
     "id": "c3",
-    "chef_picture_url": "https://example.com/chef3.jpg",
+    "chef_picture_url": "https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/pankaj-bhadouria-1.jpg",
     "chef_name": "Pankaj Bhadouria",
     "years_of_experience": 12,
     "number_of_recipes": 70,
@@ -25,7 +25,7 @@
   },
   {
     "id": "c4",
-    "chef_picture_url": "https://example.com/chef4.jpg",
+    "chef_picture_url": "https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/ajay-chopra-1.jpg",
     "chef_name": "Ajay Chopra",
     "years_of_experience": 5,
     "number_of_recipes": 25,
@@ -33,7 +33,7 @@
   },
   {
     "id": "c5",
-    "chef_picture_url": "https://example.com/chef5.jpg",
+    "chef_picture_url": "https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/pooja-dhingra-11589353546631.jpg",
     "chef_name": "Pooja Dhingra",
     "years_of_experience": 15,
     "number_of_recipes": 100,
@@ -41,7 +41,7 @@
   },
   {
     "id": "c6",
-    "chef_picture_url": "https://example.com/chef6.jpg",
+    "chef_picture_url": "https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/kunal-kapoor-1.jpg",
     "chef_name": "Kunal Kapur",
     "years_of_experience": 3,
     "number_of_recipes": 15,
